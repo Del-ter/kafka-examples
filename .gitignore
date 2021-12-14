@@ -1,0 +1,3 @@
+# Project exclude paths
+/simple-examples/target/
+/utils_examples/target/
